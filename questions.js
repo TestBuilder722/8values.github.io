@@ -1,91 +1,91 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "Nagorno-Karabakh has been Azerbaijani since 1991, as recognized by international law. It is time to accept this and stop fighting the obvious.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": -5,
+            "kara": -10,
+            "govt": 0,
+            "alig": 0,
             "scty": 0
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "What happened in Nagorno-Karabakh during 2020-2023 was simply ethnic cleansing and international organizations must therefore take action.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
+            "Kara": 10,
             "govt": 0,
+            "alig": 0,
             "scty": 0
         }
     },
     {
-        "question": "The freer the markets, the freer the people.",
+        "question": "The separatists at the head of the so-called "State of Artsakh" were nothing but terrorists, and Azerbaijan was therefore fully within its rights to use force to reclaim what was rightfully its own.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
+            "kara": -10,
             "govt": 0,
+            "alig": 0,
             "scty": 0
         }
     },
     {
-        "question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "question": "In the context where Azerbaijan proved to be a xenophobic state responsible for pogroms even before its independence, it was necessary for the Armenians of Artsakh to secede in order to protect themselves from a new genocide.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
+            "kara": 10,
             "govt": 0,
+            "alig": 0,
             "scty": 0
         }
     },
     {
-        "question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "question": "Despite Armenian propaganda aimed at gaining the pity of Westerners and leftists, not only have separatist Armenians not suffered ethnic cleansing or even war crimes, but on the contrary, the Azerbaijanis have been the real victims.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
+            "kara": -10,
             "govt": 0,
-            "scty": 10
+            "alig": 0,
+            "scty": 0
         }
     },
     {
-        "question": "Tariffs on international trade are important to encourage local production.",
+        "question": "Regardless of what the Artsakh militias may have done during the first war (assuming the facts were not exaggerated), it is clear that in view of the many current facts about Azerbaijani war crimes (mutilations, executions, torture...), the blockade of Lachin and even simply the genocidal rhetoric of Aliyev and his ministers, Armenia is the victim and Azerbaijan the oppressor.",
         "effect": {
-            "econ": 5,
-            "dipl": 0,
-            "govt": -10,
+            "kara": 10,
+            "govt": 0,
+            "alig": 0,
             "scty": 0
         }
     },
     {
         "question": "From each according to his ability, to each according to his needs.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
+            "kara": -10,
             "govt": 0,
+            "alig": 0,
             "scty": 0
         }
     },
     {
-        "question": "It would be best if social programs were abolished in favor of private charity.",
+        "question": "",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
+            "kara": 10,
             "govt": 0,
+            "alig": 0,
             "scty": 0
         }
     },
     {
-        "question": "Taxes should be increased on the rich to provide for the poor.",
+        "question": "It is time for Armenia to stop feeling sorry for itself and instead make efforts to reconcile with its neighbors, including Azerbaijan and Turkey.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
+            "kara": -10,
             "govt": 0,
+            "alig": 0,
             "scty": 0
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
+        "question": "Azerbaijan and Turkey cannot be trusted for a lasting peace; it is essential for Armenia to modernize its army in order to survive.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
+            "kara": 10,
             "govt": 0,
+            "alig": 0,
             "scty": -5
         }
     },
