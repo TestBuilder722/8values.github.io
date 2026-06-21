@@ -54,7 +54,7 @@ questions = [
         }
     },
     {
-        "question": "From each according to his ability, to each according to his needs.",
+        "question": "There are no good guys and bad guys in this conflict. There is only a strong nation capable of reclaiming its rightful lands (Azerbaijan) and a weak nation that only knows how to hide behind moralizing when it cannot win by force of arms (Armenia).",
         "effect": {
             "kara": -10,
             "govt": 0,
@@ -63,7 +63,7 @@ questions = [
         }
     },
     {
-        "question": "",
+        "question": "The conflict between Armenia and Azerbaijan is far more than a simple ethno-territorial dispute; it is a genuine existential struggle of a people attempting to move forward despite centuries of suffering (Armenia) in the face of a genocidal dictatorship (Azerbaijan) supported by fascist Turkey. Therefore, viewing this conflict solely through a geopolitical lens is not only a mistake but also amounts to condoning oppression.",
         "effect": {
             "kara": 10,
             "govt": 0,
@@ -86,24 +86,24 @@ questions = [
             "kara": 10,
             "govt": 0,
             "alig": 0,
-            "scty": -5
-        }
-    },
-    {
-        "question": "Basic utilities like roads and electricity should be publicly owned.",
-        "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "Government intervention is a threat to the economy.",
+        "question": "Nagorno-Karabakh is not enough. Now we must reclaim the entirety of so-called Armenia, which in reality corresponds to Western Azerbaijan. Armenian history has never existed in the region; these lands historically correspond to Caucasian Albania.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
+            "kara": -10,
             "govt": 0,
+            "alig": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Azerbaijani identity is nothing but a lie and is a colonial invention of the Turks and Soviets in order to harm Armenian and Iranian identities.",
+        "effect": {
+            "kara": -10,
+            "govt": 0,
+            "alig": 0,
             "scty": 0
         }
     },
