@@ -430,14 +430,5 @@ questions = [
             "govt": 0,
             "scty": 10
         }
-    },
-    {
-        "question": "Climate change is currently one of the greatest threats to our way of life.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
     }
 ];
